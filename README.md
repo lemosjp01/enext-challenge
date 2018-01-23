@@ -1,2 +1,2 @@
 # enext-challenge
-Layout criado para demonstração de código.
+Layout criado para demonstração de código-fonte.
